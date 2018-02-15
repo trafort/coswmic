@@ -1,0 +1,1 @@
+import UIKit import Material struct ButtonLayout { struct Flat { static let width: CGFloat = 120 static let height: CGFloat = 44 static let offsetY: CGFloat = -150 } struct Raised { static let width: CGFloat = 150 static let height: CGFloat = 44 static let offsetY: CGFloat = -75 }
